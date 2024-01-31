@@ -25,3 +25,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/luis-felix-filho/)
 - 😄 Pronouns: He|Him|His
+
+## Github Statistics
+<div>
+<a href="https://github.com/luisfelix-93">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/luisfelix-93&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/apiluisfelix-93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
+
+          
